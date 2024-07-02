@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aissadesiderio
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning basic programming
+- 👀 I’m interested in computer science and biological sciences
+- 🌱 I’m currently learning programming
 - 📫 How to reach me: instagram @aissadesiderio
