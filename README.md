@@ -1,9 +1,21 @@
+<div> <a href="https://github.com/aissadesiderio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+</p>
+
+<h3 align="left">Stars</h3>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aissadesiderio&theme=omni" alt="aissadesiderio" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-  
-<h3 align="center">🌿🍃 Minhas Linguagens 🍃🌿</h3>
-
-![Linguagens mais usadas pela Aissa](https://github-readme-stats.vercel.app/api/top-langs/?username=aissadesiderio&layout=compact&bg_color=f0fff0&border_color=228B22&border_radius=20&title_color=228B22&text_color=228B22&icon_color=228B22)
-
-<h3 align="center">🌱🌿🌱</h3>
-
+<a href="https://github.com/aissadesiderio">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aissadesiderio&theme=omni" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aissadesiderio&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aissadesiderio&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aissadesiderio&theme=omni" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aissadesiderio&theme=rose_pine" height="180em" />
 </div>
