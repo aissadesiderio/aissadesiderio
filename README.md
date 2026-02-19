@@ -23,11 +23,9 @@
 
 <h3 align="center">📊 Estatísticas Gerais</h3>
 <div align="center">
-  <a href="https://github.com/aissadesiderio">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aissadesiderio&theme=forest" height="180em" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aissadesiderio&theme=forest" height="180em" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aissadesiderio&theme=forest" height="180em" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aissadesiderio&theme=forest" height="180em" />
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aissadesiderio&theme=forest" height="180em" />
-  </a>
-</div>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aissadesiderio&theme=omni" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aissadesiderio&theme=2077" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aissadesiderio&theme=2077" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aissadesiderio&theme=omni" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aissadesiderio&theme=rose_pine" height="180em" />
+</div>>
