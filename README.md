@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="header.gif" alt="topo do readme" width="100%">
+</div>
+
 <div align="center"> 
   <a href="https://github.com/aissadesiderio" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
