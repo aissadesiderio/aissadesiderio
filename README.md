@@ -8,18 +8,22 @@
   </a>
 </div>
 
-<h3 align="center"> Sequência de Commits (Streak)</h3>
-<p>
-  <a align="center" href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aissadesiderio&theme=oceanic-next&hide_border=true&border_radius=9.1&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="Estatísticas" /></a>
+<br>
 
-</p>
-
-
-<h3 align="center"> Estatísticas Gerais</h3>
 <div align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aissadesiderio&theme=omni" height="180em" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aissadesiderio&theme=2077" height="180em" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aissadesiderio&theme=2077" height="180em" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aissadesiderio&theme=omni" height="180em" />
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aissadesiderio&theme=rose_pine" height="180em" />
-</div>>
+  <h3>Sequência de Commits (Streak)</h3>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=aissadesiderio&theme=oceanic-next&hide_border=true&border_radius=9.1&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="Estatísticas" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Estatísticas Gerais</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aissadesiderio&theme=omni" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aissadesiderio&theme=2077" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aissadesiderio&theme=2077" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aissadesiderio&theme=omni" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aissadesiderio&theme=rose_pine" height="180em" />
+</div>
