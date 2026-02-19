@@ -10,7 +10,7 @@
 
 <h3 align="center"> Sequência de Commits (Streak)</h3>
 <p>
-  <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aissadesiderio&theme=oceanic-next&hide_border=true&border_radius=9.1&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="Estatísticas" /></a>
+  <a align="center" href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aissadesiderio&theme=oceanic-next&hide_border=true&border_radius=9.1&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="Estatísticas" /></a>
 
 </p>
 
