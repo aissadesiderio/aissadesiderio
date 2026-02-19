@@ -16,7 +16,8 @@
 
 <h3 align="left">🔥 Sequência de Commits (Streak)</h3>
 <p>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aissadesiderio&theme=forest" alt="Estatísticas da Aissa" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aissadesiderio&theme=oceanic-next&hide_border=true&border_radius=9.1&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="Estatísticas" /></a>
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
