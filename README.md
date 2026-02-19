@@ -1,3 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aissadesiderio&label=Profile%20views&color=0e75b6&style=flat" alt="aissadesiderio" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aissadesiderio&theme=" alt="aissadesiderio" /></a> </p>
+
 <div> <a href="https://github.com/aissadesiderio" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
