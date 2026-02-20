@@ -19,6 +19,8 @@
 
 <br>
 
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=aissadesiderio)
+
 <div align="center">
   <h3>Estatísticas Gerais</h3>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aissadesiderio&theme=omni" height="180em" />
