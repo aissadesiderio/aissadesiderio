@@ -13,7 +13,7 @@
 <div align="center">
   <h3>Sequência de Commits (Streak)</h3>
   <a href="https://git.io/streak-stats">
-    <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aissadesiderio&theme=algolia" alt="Estatísticas" />
+    <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aissadesiderio&theme=algolia&hide_border=true" alt="Estatísticas" />
   </a>
 </div>
 
