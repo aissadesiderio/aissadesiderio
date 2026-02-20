@@ -13,7 +13,7 @@
 <div align="center">
   <h3>Sequência de Commits (Streak)</h3>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=aissadesiderio&theme=algolia-next&hide_border=true&border_radius=9.1&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="Estatísticas" />
+    <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aissadesiderio&theme=algolia&hide_border=true&border_radius=9&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" alt="Estatísticas" />
   </a>
 </div>
 
