@@ -19,7 +19,6 @@
 
 <br>
 
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=aissadesiderio)
 
 <div align="center">
   <h3>Estatísticas Gerais</h3>
